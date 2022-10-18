@@ -19,3 +19,10 @@ Warning: The data set consists of records created in each sales transaction. Thi
 
 * Age: Customer's age
 
+### Before Classification
+
+![plot](./images/before_classification.png)
+
+### After Classification
+
+![plot](./images/after_classification.png)

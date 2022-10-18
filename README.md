@@ -17,3 +17,5 @@ Warning: The data set consists of records created in each sales transaction. Thi
 
 * Country: Country of the customer
 
+* Age: Customer's age
+

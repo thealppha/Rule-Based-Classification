@@ -21,8 +21,12 @@ Warning: The data set consists of records created in each sales transaction. Thi
 
 ### Before Classification
 
-![plot](./images/before_classification.png)
+<p align="center">
+  <img src="./images/before_classification.png" width="350" title="hover text">
+</p>
 
 ### After Classification
 
-![plot](./images/after_classification.png)
+<p align="center">
+  <img src="./images/after_classification.png" width="350" title="hover text">
+</p>
